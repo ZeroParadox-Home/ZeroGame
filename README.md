@@ -3,4 +3,4 @@
 #=================
  pip install pygame 
 =================#
- (Creted By @Zero_Paradox)
+ (Created By @Zero_Paradox)
