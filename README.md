@@ -1,11 +1,6 @@
-# ZeroGame
-# A Funny Game Coded By Python3---> ZeroGame
-# python3
+# ZeroGame A Funny Game Coded By Python3
 # Requirements
-
 #=================
-pip install pygame
-Other Files in Repository
+#pip install pygame
 #=================
-
 #Creted By @Zero_Paradox
